@@ -4,7 +4,7 @@ Our method uses a protein Language Model to extract features from protein sequen
 ## Train Pipeline
 
 ### Dataset
-- The required dataset are in the csv_folder
+- The required dataset are on the dataset folder
 
 ### Generate Embeddings from Sequence
 - To generate embeddings, you can run generate_embeddings_from_sequence.ipynb which will generate embeddings for you. You can choose ProtT5 or ProtBert embeddings or even use other protein language model
