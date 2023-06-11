@@ -28,4 +28,4 @@ Our method uses a protein Language Model to extract features from protein sequen
 
 ## Acknowledgements
 
-We would like to express our sincere gratitude to Asst. Prof Lokhnath Regmi, our project supervisor, for his constant guidance and precious encouragement.We would like to earnestly acknowledge the support, guidance and valuable time given by Mr. Suresh Pokhrel and Asst. Prof Dr. Dukka KC. We are also very grateful to Department of Electronics and Computer Engineering, Pulchowk Campus for providing us with such a splendid opportunity to do the project.
+We would like to express our sincere gratitude to Asst. Prof Lokhnath Regmi, our project supervisor, for his constant guidance and precious encouragement. We would like to earnestly acknowledge the support, guidance and valuable time given by Mr. Suresh Pokhrel and Asst. Prof Dr. Dukka KC. We are also very grateful to Department of Electronics and Computer Engineering, Pulchowk Campus for providing us with such a splendid opportunity to do the project.
